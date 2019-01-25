@@ -2,6 +2,7 @@
 
     Ondrej Sika <ondrej@ondrejsika.com>
     https://github.com/ondrejsika/ondrejsika-adminer-docker
+    https://gitlab.sikahq.com/ondrej/ondrejsika-adminer-docker
 
 
 My extended [official Adminer image](https://hub.docker.com/_/adminer) with:
