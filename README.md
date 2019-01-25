@@ -15,7 +15,7 @@ My extended [official Adminer image](https://hub.docker.com/_/adminer) with:
 ## Build
 
 ```
-docker build -t ondrejsika/adminer
+docker build --pull -t ondrejsika/adminer .
 ```
 
 
